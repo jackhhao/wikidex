@@ -1,0 +1,6 @@
+requests
+bs4
+langchain
+llama-index
+fastembed
+llama-index-embeddings-langchain
